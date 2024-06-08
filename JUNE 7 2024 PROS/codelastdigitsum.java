@@ -1,7 +1,9 @@
 
 import java.util.Scanner;
 
-
+//DEFINATION : Accept two integers from the user and calculate the sum of last digits of both the integers.
+// For example, if the numbers are 27 and 459, then the sum of last digits would be 16 (i.e. 7 + 9).
+ 
  
 public class codelastdigitsum{
     public static void main(String[] args)
