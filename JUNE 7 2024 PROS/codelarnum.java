@@ -2,6 +2,9 @@
 import java.util.Scanner;
 
  
+
+
+// W.A.P. to find the largest number from given 3 numbers using conditional operator.
 public class codelarnum {
     public static void main(String[] args)
     {

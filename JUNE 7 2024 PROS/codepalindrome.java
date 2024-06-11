@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 
- 
+//W.A.P. to check given number is palindrome or not.
 public class codepalindrome {
     public static void main(String[] args)
     {

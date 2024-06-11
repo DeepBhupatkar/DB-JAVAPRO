@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
- 
+ // W.A.P. to check given number is prime or not.
 public class codeprime {
     public static void main(String[] args)
     {
