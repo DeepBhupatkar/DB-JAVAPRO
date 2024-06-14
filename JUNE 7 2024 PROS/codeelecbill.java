@@ -1,6 +1,7 @@
     
 import java.util.Scanner;
 
+//An electricity board charges the following rates for the use of electricity: For the first 200 units80 paisa per unit, For the next 100 units 90 paisa per unit and beyond 300 units Rs 1.00 per unit.All users are charged minimum of Rs.100 as meter charge. If the total amount is more than Rs.300 then an additional surcharge of 12.36% of total amount is charged. W.A.P. to read thenumber of units consumed and print out the bill amount.
  
 public class codeelecbill {
     public static void main(String[] args)

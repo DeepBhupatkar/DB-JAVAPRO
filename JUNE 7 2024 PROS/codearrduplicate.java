@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// W.A.P. to read n numbers in an array and remove the duplicates from an array.
 
 public class codearrduplicate {
    public static void main(String[] args) {
