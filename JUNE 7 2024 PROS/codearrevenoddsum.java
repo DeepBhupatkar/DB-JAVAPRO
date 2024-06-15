@@ -1,7 +1,6 @@
 import java.util.Scanner;
-import java.util.Stack;
 
- 
+ // W.A.P. to read n numbers in an array and print the sum of odd numbers & even numbers.
 public class codearrevenoddsum {
     public static void main(String[] args)
     {

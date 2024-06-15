@@ -1,7 +1,7 @@
     
 import java.util.Scanner;
 
- 
+ //Accept three integer values from the user and display them in ascending order using only operators (i.e. without using if…else, switch case, or loop).
 public class codeascending {
     public static void main(String[] args)
     {
